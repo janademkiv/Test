@@ -41,6 +41,7 @@ namespace Test
                     }
         }
         
+        
 
 
         static void Main(string[] args)
@@ -49,6 +50,7 @@ namespace Test
             vvodInn(out int a);
             //inN();
             //inn();
+            Console.WriteLine("Hello");
             Console.ReadKey();
         }
     }
